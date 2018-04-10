@@ -1,0 +1,14 @@
+galaxy_info:
+  author: Ben Tse
+  description: Manage docker as a non root user
+  license: MIT
+  min_ansible_version: 2.4
+  platforms:
+    - name: EL
+      versions:
+        - 7
+  galaxy_tags:
+    - docker
+
+dependencies:
+  - bt5e.docker-ce
