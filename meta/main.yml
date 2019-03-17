@@ -1,4 +1,5 @@
 galaxy_info:
+  role_name: docker_non_root_user
   author: Ben Tse
   description: Manage docker as a non root user
   license: MIT
