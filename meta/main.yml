@@ -12,4 +12,4 @@ galaxy_info:
     - docker
 
 dependencies:
-  - bt5e.docker-ce
+  - bt5e.docker_ce
